@@ -1,14 +1,11 @@
-// pages/index/demo1.js
+// pages/index/baidu.js
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-    motto: 'demo1-page',
-    userInfo: {},
-    hasUserInfo: false,
-    canIUse: wx.canIUse('button.open-type.getUserInfo')
+
   },
 
   /**
@@ -65,10 +62,5 @@ Page({
    */
   onShareAppMessage: function () {
 
-  },
-  jumpback: function () {
-    wx.navigateTo({
-      url: '/pages/index/index',
-    })
   }
 })

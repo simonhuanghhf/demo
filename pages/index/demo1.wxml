@@ -1,2 +1,5 @@
 <!--pages/index/demo1.wxml-->
-<text>pages/index/demo1.wxml</text>
+<view>
+  <text>哈哈，跳过来了！</text>
+  <button style='margin-top: 50px;' type='primary' bindtap='jumpback'>跳回去</button>
+</view>

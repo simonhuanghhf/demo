@@ -2,12 +2,13 @@
   "pages": [
     "pages/index/index",
     "pages/logs/logs",
-    "pages/index/demo1"
+    "pages/index/demo1",
+    "pages/index/baidu"
   ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarTitleText": "Test-demo",
     "navigationBarTextStyle": "black"
   }
 }
