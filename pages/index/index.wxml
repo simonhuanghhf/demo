@@ -13,7 +13,7 @@
   </view>
   <view>
     <!--  <button id="shareCloseBtn" type='{{shareBtnInfo.type}}' bindtap="onShareCloseBtnClick">{{shareBtnInfo.text}}</button>-->
-    <button type='primary' bindtap='jumppage'>跳转</button>
+    <button type='primary' bindtap='jumppage'>跳转11</button>
     <view class='wrapper'>
     <button class='wepay' bindtap='goBaidu'>去baidu</button>
   </view>
